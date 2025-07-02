@@ -1,0 +1,13 @@
+C:\Users\angel\OneDrive\Desktop\finki\Vizuelno programiranje\FruitCatcher\FruitCatcher\bin\Debug\FruitCatcher.exe.config
+C:\Users\angel\OneDrive\Desktop\finki\Vizuelno programiranje\FruitCatcher\FruitCatcher\bin\Debug\FruitCatcher.exe
+C:\Users\angel\OneDrive\Desktop\finki\Vizuelno programiranje\FruitCatcher\FruitCatcher\bin\Debug\FruitCatcher.pdb
+C:\Users\angel\OneDrive\Desktop\finki\Vizuelno programiranje\FruitCatcher\FruitCatcher\obj\Debug\FruitCatcher.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\finki\Vizuelno programiranje\FruitCatcher\FruitCatcher\obj\Debug\FruitCatcher.Form1.resources
+C:\Users\angel\OneDrive\Desktop\finki\Vizuelno programiranje\FruitCatcher\FruitCatcher\obj\Debug\FruitCatcher.Properties.Resources.resources
+C:\Users\angel\OneDrive\Desktop\finki\Vizuelno programiranje\FruitCatcher\FruitCatcher\obj\Debug\FruitCatcher.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Desktop\finki\Vizuelno programiranje\FruitCatcher\FruitCatcher\obj\Debug\FruitCatcher.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\finki\Vizuelno programiranje\FruitCatcher\FruitCatcher\obj\Debug\FruitCatcher.exe
+C:\Users\angel\OneDrive\Desktop\finki\Vizuelno programiranje\FruitCatcher\FruitCatcher\obj\Debug\FruitCatcher.pdb
+C:\Users\angel\OneDrive\Desktop\finki\Vizuelno programiranje\FruitCatcher\FruitCatcher\obj\Debug\FruitCatcher.ModeSelectionForm.resources
+C:\Users\angel\OneDrive\Desktop\finki\Vizuelno programiranje\FruitCatcher\FruitCatcher\obj\Debug\FruitCatcher.StartForm.resources
+C:\Users\angel\OneDrive\Desktop\finki\Vizuelno programiranje\FruitCatcher\FruitCatcher\obj\Debug\FruitCatcher.GameOverForm.resources
