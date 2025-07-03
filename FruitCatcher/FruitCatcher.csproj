@@ -111,6 +111,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="Resources\Screenshot 2025-06-29 183901.png" />
   </ItemGroup>
   <ItemGroup>
@@ -136,6 +137,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore.txt" />
+    <Content Include="game form.png" />
+    <Content Include="game over form.png" />
+    <Content Include="mode form.png" />
+    <Content Include="welcome screen.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
