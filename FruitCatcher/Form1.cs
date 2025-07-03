@@ -115,16 +115,16 @@ namespace FruitCatcher
                 {
                     if (fruit.Type == FruitType.Good)
                     {
-                        score += 1;        // Зголеми поени за фатена добра овошка
+                        score = score + 1;  // Зголеми поени за фатена добра овошка
                         fruitsCaught++;    // Зголеми број на фатени овошки
                         if (fruitsCaught % 10 == 0)
                         {
-                            fallSpeed++;   // На секои 10 фатени овошки, зголеми ја брзината на паѓање
+                            fallSpeed++;   // На секои 10 фатени овошки, зголеми ја брзината на паѓање на формата
                         }
                     }
                     else if (selectedMode == GameMode.Poison)
                     {
-                        lives -= 1;       // Во Poison mode, лоша овошка одзема живот
+                        lives = lives-1;       // Во Poison mode, лоша овошка одзема живот
                     }
                     fruits.Remove(fruit);  // Овошката се отстранува од листата (фатена или погодена)
                 }
