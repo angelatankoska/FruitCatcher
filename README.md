@@ -163,15 +163,15 @@ private void GameLoop(object sender, EventArgs e)
 
   ![Првиот екран што го гледа корисникот кога ќе ја вклучи играта](welcome%20screen.png)
 
-- **Mode Form**
+- **Екран за избор на режим**
 
   ![Екранот за избор на режим за играње](mode%20form.png)
 
-- **Game Form**
+- **Главен екран на играта**
 
   ![Главниот екран за играње](game%20form.png)
 
-- **Game Over Form**
+- **Екран кога ќе заврши играта**
 
   ![Екранот за крај на играта со приказ на score](game%20over%20form.png)
 
