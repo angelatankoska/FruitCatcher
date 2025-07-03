@@ -20,6 +20,8 @@ namespace FruitCatcher
         private GameMode selectedMode;
         private Timer countdownTimer;
         private int timeRemaining = 60;
+        private bool isPaused = false;
+
 
         public Form1(GameMode mode) : this()
         {
@@ -61,6 +63,33 @@ namespace FruitCatcher
                 timeRemaining = -1;
             }
         }
+
+        private void TogglePause()
+        {
+            isPaused = !isPaused;
+            if (isPaused)
+            {
+                gameTimer.Stop();
+                if (countdownTimer != null) countdownTimer.Stop();
+                MessageBox.Show("The game is paused, press Space to resume");
+            }
+            else
+            {
+                gameTimer.Start();
+                if (countdownTimer != null) countdownTimer.Start();
+            }
+        }
+
+        protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
+        {
+            if (keyData == Keys.Space)
+            {
+                TogglePause();
+                return true;
+            }
+            return base.ProcessCmdKey(ref msg, keyData);
+        }
+
 
         private void CountdownTimer_Tick(object sender, EventArgs e)
         {
